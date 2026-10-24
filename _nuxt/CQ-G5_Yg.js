@@ -1,1 +1,0 @@
-import{_ as e,b as t,mt as n}from"./DC3Tigql.js";import{r}from"#entry";var i={};function a(r,i){return n(),t(`div`,null,[...i[0]||=[e(`span`,null,`User/Register`,-1)]])}var o=r(i,[[`render`,a]]);export{o as default};

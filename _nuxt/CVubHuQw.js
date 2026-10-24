@@ -1,1 +1,0 @@
-import{n as e}from"./hePW80VL.js";import{b as t,mt as n,xt as r}from"./DC3Tigql.js";import{r as i}from"#entry";var a=e({default:()=>l}),o={},s={class:`fullscreen`};function c(e,i){return n(),t(`div`,s,[r(e.$slots,`default`,{},void 0,!0)])}var l=i(o,[[`render`,c],[`__scopeId`,`data-v-46789882`]]);export{a as n,l as t};
